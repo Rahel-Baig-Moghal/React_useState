@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for your React application:
-
-```markdown
 # Counter App
 
 This is a simple counter application built with React.
@@ -21,41 +18,6 @@ This is a simple counter application built with React.
 
    ```bash
    git clone https://github.com/yourusername/counter-app.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd counter-app
-   ```
-
-3. Install the dependencies:
-
-   ```bash
-   npm install
-   ```
-
-   or
-
-   ```bash
-   yarn install
-   ```
-
-## Running the App
-
-To start the development server, run:
-
-```bash
-npm start
-```
-
-or
-
-```bash
-yarn start
-```
-
-This will start the application and you can view it in your browser at `http://localhost:3000`.
 
 ## Code Explanation
 
@@ -92,5 +54,7 @@ export default App;
 - `decrease`: Decrements the `count` by 1.
 - The `App` component renders the current `count` and two buttons to increase and decrease the counter.
 
+## Contributing
 
+If you want to contribute to this project, feel free to submit a pull request or open an issue.
 
